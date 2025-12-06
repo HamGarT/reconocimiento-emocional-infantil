@@ -1,0 +1,77 @@
+# ------------------------
+# ARCHIVOS DE PYTHON
+# ------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de compilación
+*.so
+
+# ------------------------
+# ENTORNOS VIRTUALES
+# ------------------------
+venv/
+env/
+.venv/
+python_env/
+
+# ------------------------
+# ARCHIVOS DE CONFIGURACIÓN LOCAL
+# ------------------------
+*.env
+.env.*
+*.ini
+*.cfg
+*.toml
+
+# ------------------------
+# LOGS Y SALIDAS
+# ------------------------
+*.log
+logs/
+output/
+*.out
+*.tmp
+capturas/
+# ------------------------
+# BASES DE DATOS LOCALES
+# ------------------------
+*.sqlite3
+*.db
+*.sqlite
+
+# ------------------------
+# PAQUETES Y DEPENDENCIAS
+# ------------------------
+dist/
+build/
+develop-eggs/
+.eggs/
+*.egg-info/
+.installed.cfg
+
+# ------------------------
+# JUPYTER NOTEBOOK
+# ------------------------
+.ipynb_checkpoints/
+
+# ------------------------
+# IDEs Y EDITORES
+# ------------------------
+# VSCode
+.vscode/
+
+# PyCharm
+*.idea/
+*.iml
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# ------------------------
+# SISTEMA
+# ------------------------
+.DS_Store
+Thumbs.db
